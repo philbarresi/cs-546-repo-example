@@ -1,5 +1,9 @@
-# Hello, class!
+# CS-546 Lecture 5
 
-## Let's add to this document
+## HTML
 
-A readme file often contains all the setup instructions needed to start working on a project.
+This describes HTML
+
+## Coffee
+
+We are describing HTML by making two pages about coffee.
